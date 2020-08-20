@@ -1,7 +1,7 @@
 # NLP
 
 Plan:
-
+### Natural Language Processing with Classification and Vector Spaces
 C1_w1: Sentiment Analysis with Logistic Regression
 
     Preprocessing of the raw text (tweets) : Tokenizing the string, Lowercasing, Removing stop words and punctuation, Stemming;
@@ -34,3 +34,8 @@ C1_w4: Machine Translation
     Hash tables
 
     Searching documents and Simple Model for Word Translation
+    
+### Natural Language Processing with Probabilistic Models
+C2_w1: Autocorrect and Minimum Edit Distance
+
+    Minimum edit distance algorithm (Dynamic Programming)
